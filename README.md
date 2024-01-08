@@ -1,7 +1,8 @@
 [![MasterHead](GIT media/newbg.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amith Vardhan</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=MrbHO%2fSF&id=4C52EBD0CEEBB0E736E8EFA06F129D7F5C5A85CA&thid=OIP.MrbHO_SFhR6gJp29bMdhOAHaFj&mediaurl=https%3a%2f%2fwww.chawtechsolutions.com%2fwp-content%2fuploads%2f2019%2f03%2fdeveloper-dribbble.gif&exph=600&expw=800&q=engineers+animated+gifs&simid=608049485769281821&FORM=IRPRST&ck=9F9C0BA6658B3D7766A593451246BCF4&selectedIndex=52&itb=0&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="Coding" width="400" src="GIT media/developer-dribbble.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amithvardhan1997&label=Profile%20views&color=0e75b6&style=flat" alt="amithvardhan1997" /> </p>

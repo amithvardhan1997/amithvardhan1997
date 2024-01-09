@@ -1,4 +1,5 @@
-[![MasterHead](GIT media/newbg.gif)](https://rishavchanda.io)
+<img src="https://github.com/amithvardhan1997/amithvardhan1997/assets/149517075/a7255574-a6cb-4817-8178-42d38d9fd93d" alt="newbg" width="100%">
+
 <h1 align="center">Hi 👋, I'm Amith Vardhan</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="GIT media/developer3-dribbble.gif">

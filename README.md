@@ -1,7 +1,7 @@
 [![MasterHead](GIT media/newbg.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amith Vardhan</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
-<img align="right" alt="Coding" width="400" src="GIT media/developer-dribbble.gif">
+<img align="right" alt="Coding" width="400" src="GIT media/developer2-dribbble.gif">
 
 
 
